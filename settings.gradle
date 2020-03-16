@@ -1,0 +1,2 @@
+rootProject.name='FinnkinoViewer'
+include ':app'
